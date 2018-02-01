@@ -1,4 +1,4 @@
-Migthy Miner
+Mighty Miner
 ===========================
 Bitcoin Mining software that drives the Antminer S1 hashing boards directly via UART
 
