@@ -1,0 +1,16 @@
+{
+  "name": "migthyminer",
+  "version": "1.0.0",
+  "description": "Simple mining software for controling the hashing boards of Antminer S1 via UART",
+  "main": "index.js",
+  "dependencies": {
+    "big-integer": "^1.6.26",
+    "serialport": "^6.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomasz Watorowski",
+  "license": "MIT"
+}
