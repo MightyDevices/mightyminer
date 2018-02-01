@@ -21,6 +21,12 @@ Configuration
 -------------------------
 Make sure that you enter proper stratum pool credentials and miners serial port name in the index.js
 
+Usage
+-------------------------
+1. Install dependencies `npm install`
+2. Connect the hashing board (please see http://mightydevices.com/?p=615 for details)
+3. Run the miner `node index.js`
+
 Donations (BTC)
 -------------------------
 152dEicovRXbxBgTmoY3izd7ThrxRNdPqW
