@@ -25,7 +25,8 @@ Usage
 -------------------------
 1. Install dependencies `npm install`
 2. Connect the hashing board (please see http://mightydevices.com/?p=615 for details)
-3. Run the miner `node index.js`
+3. Set up the configuration in file `index.js`: set COM port name in  `minerParams` and your pool credentials in `stratumConnectionParams`
+4. Run the miner `node index.js`
 
 Donations (BTC)
 -------------------------
